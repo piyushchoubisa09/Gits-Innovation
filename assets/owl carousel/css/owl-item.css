@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.owl-theme{
+position:relative;
+}
+.owl-theme .owl-nav button{
+width:40px !important;
+height:40px !important;
+border-radius:50% !important;
+background-color:#fff !important;
+opacity: 0.8 !important;
+display:block !important;
+position:absolute !important;
+top:50% !important;
+}
+.owl-theme .owl-nav .owl-prev{
+
+left:0;
+
+}
+.owl-theme .owl-nav .owl-next{
+
+right:0;
+}
+.owl-theme .owl-nav span{
+font-size:40px;
+color:#000;
+}
